@@ -1,0 +1,5 @@
+npx create-next-app@latest fsw-foods
+npm run dev
+
+npm install prisma --save-dev
+npx prisma init --datasource-provider postgresql
