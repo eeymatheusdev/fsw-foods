@@ -12,3 +12,5 @@ npx shadcn-ui@latest add card
 npx shadcn-ui@latest add button
 
 npm install -D prettier prettier-plugin-tailwindcss
+npm install -D husky lint-staged
+npx husky init
