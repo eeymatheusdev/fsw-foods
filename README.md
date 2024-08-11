@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img alt="fsw food" title="fsw food" src=".github/logo.png" />
+</h1>
+
+<br>
+
 <p align="center">
   <img alt="fsw food" src=".github/capa.png" width="100%">
 </p>
